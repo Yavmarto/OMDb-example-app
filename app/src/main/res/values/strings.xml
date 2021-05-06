@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OMDb</string>
+    <string name="move_not_found"> Movie not found</string>
+</resources>
